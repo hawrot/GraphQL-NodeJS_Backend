@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f80dbcbc-2dd9-463c-b1f4-a0a95328ce36" name="Default Changelist" comment="Configure sign up">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f80dbcbc-2dd9-463c-b1f4-a0a95328ce36" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Feed/Feed.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Feed/Feed.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +56,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580770580754</updated>
-      <workItem from="1580770581939" duration="3228000" />
+      <workItem from="1580770581939" duration="3844000" />
+      <workItem from="1580815816780" duration="1234000" />
     </task>
+    <task id="LOCAL-00001" summary="Handling login with GraphQL">
+      <created>1580775182148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580775182148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,16 +74,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configure sign up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configure sign up" />
+    <MESSAGE value="Handling login with GraphQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Handling login with GraphQL" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2459" y="158" key="CommitChangelistDialog2" timestamp="1580774133908">
+    <state x="2459" y="158" key="CommitChangelistDialog2" timestamp="1580775181532">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2459" y="158" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580774133908" />
-    <state x="2480" y="297" key="Vcs.Push.Dialog.v2" timestamp="1580775175290">
+    <state x="2459" y="158" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1580775181532" />
+    <state x="2480" y="297" key="Vcs.Push.Dialog.v2" timestamp="1580775244444">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2480" y="297" key="Vcs.Push.Dialog.v2/0.23.3840.2137@0.23.3840.2137" timestamp="1580775175290" />
+    <state x="2480" y="297" key="Vcs.Push.Dialog.v2/0.23.3840.2137@0.23.3840.2137" timestamp="1580775244444" />
   </component>
 </project>
