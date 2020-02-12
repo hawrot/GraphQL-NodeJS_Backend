@@ -59,7 +59,7 @@
       <workItem from="1580770581939" duration="3844000" />
       <workItem from="1580815816780" duration="2665000" />
       <workItem from="1580914413070" duration="4110000" />
-      <workItem from="1581517320636" duration="3083000" />
+      <workItem from="1581517320636" duration="3470000" />
     </task>
     <task id="LOCAL-00001" summary="Handling login with GraphQL">
       <created>1580775182148</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581520168115</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Display the status">
+      <created>1581520654045</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581520654045</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,13 +132,14 @@
     <MESSAGE value="Update post via graphql" />
     <MESSAGE value="Delete a post" />
     <MESSAGE value="fix pagination" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix pagination" />
+    <MESSAGE value="Display the status" />
+    <option name="LAST_COMMIT_MESSAGE" value="Display the status" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2459" y="158" key="CommitChangelistDialog2" timestamp="1581520167467">
+    <state x="2459" y="158" key="CommitChangelistDialog2" timestamp="1581520653423">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2459" y="158" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1581520167467" />
+    <state x="2459" y="158" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1581520653423" />
     <state x="2480" y="297" key="Vcs.Push.Dialog.v2" timestamp="1580918492503">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
