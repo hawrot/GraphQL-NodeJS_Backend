@@ -59,7 +59,7 @@
       <workItem from="1580770581939" duration="3844000" />
       <workItem from="1580815816780" duration="2665000" />
       <workItem from="1580914413070" duration="4110000" />
-      <workItem from="1581517320636" duration="2411000" />
+      <workItem from="1581517320636" duration="2625000" />
     </task>
     <task id="LOCAL-00001" summary="Handling login with GraphQL">
       <created>1580775182148</created>
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581519079788</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Delete a post">
+      <created>1581519966507</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581519966507</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,13 +116,14 @@
     <MESSAGE value="Add pagination" />
     <MESSAGE value="Fetch single post" />
     <MESSAGE value="Update post via graphql" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update post via graphql" />
+    <MESSAGE value="Delete a post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete a post" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2459" y="158" key="CommitChangelistDialog2" timestamp="1581519078663">
+    <state x="2459" y="158" key="CommitChangelistDialog2" timestamp="1581519965996">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="2459" y="158" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1581519078663" />
+    <state x="2459" y="158" key="CommitChangelistDialog2/0.23.3840.2137@0.23.3840.2137" timestamp="1581519965996" />
     <state x="2480" y="297" key="Vcs.Push.Dialog.v2" timestamp="1580918492503">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
